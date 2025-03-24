@@ -1,4 +1,3 @@
-# Goutham Mavuri | **Senior Software Engineer**  
 
 ## Professional Summary  
 12+ years of experience in designing, developing, and deploying **Enterprise-Wide Web Applications** and **Big Data Platforms**. Proven expertise in full-stack development, cloud-native solutions, and data engineering with a focus on scalability, performance, and Agile methodologies.  
