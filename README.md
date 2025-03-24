@@ -1,13 +1,4 @@
 # Goutham Mavuri  
-**Senior Software Engineer**  
-📧 gmavuri@gmail.com
-
----
-
-## Objective  
-To contribute to a renowned software firm by leveraging my expertise in innovative projects, interpersonal skills, and technical proficiency to achieve long-term career growth.  
-
----
 
 ## Professional Summary  
 12+ years of experience in designing, developing, and deploying **Enterprise-Wide Web Applications** and **Big Data Platforms**. Proven expertise in full-stack development, cloud-native solutions, and data engineering with a focus on scalability, performance, and Agile methodologies.  
